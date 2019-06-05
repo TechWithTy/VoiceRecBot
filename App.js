@@ -3,7 +3,7 @@ const content = document.querySelector('.content');
 
 // Responses
 
-const greetings = ['Hi there!','Whats Going on?','I am good how are you' ];
+const greetings = ['Hi there!','Whats Going on?','I am good how are you?' ];
 
 
 //Weather Integration http://weatherjs.com/
